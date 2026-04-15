@@ -4,8 +4,8 @@
 
 ---
 
-## Aluno: João Miguel da Silva Cavalcante
+Aluno: João Miguel da Silva Cavalcante
 
-## RA: 25001039
+RA: 25001039
 
-## Turma: Análise e Desenvolvimento de Sistemas
+Turma: Análise e Desenvolvimento de Sistemas
